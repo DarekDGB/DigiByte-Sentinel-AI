@@ -1,3 +1,21 @@
+> ⚠️ **DEPRECATED – Old Prototype**
+>
+> This repository contains the first experimental version of **Sentinel AI**.
+> It has now been fully replaced by the modern, stable **Sentinel AI v2**.
+>
+> Please use the updated version here:
+> 👉 https://github.com/DarekDGB/Sentinel-AI-v2
+>
+> Sentinel AI v2 includes:
+> - improved risk detection
+> - cleaner architecture
+> - full test suite
+> - better integration with DQSN and ADN v2
+> - future-proof design for the 5-Layer Quantum Shield Network
+>
+> This repo remains available only for historical reference.
+
+
 DigiByte-Sentinel-AI
 
 AI-based anomaly detection & threat-monitoring system for the DigiByte blockchain
